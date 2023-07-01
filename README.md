@@ -34,16 +34,3 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/abraham-alexis-g%C3%B3mez-arrazate-a48944138/">Linkedin</a>
-  </p>
-  <p>
-    <a href="mailto:alexisgomez_96@hotmail.com">Mail</a>
-  </p>
-  <p>
-    <a href="https://www.instagram.com/abraham.arrazate/">Instagram</a>
-  </p>
-</p>
